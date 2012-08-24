@@ -4,7 +4,7 @@
 	id		= "com.villaduvin.jebProto"
 	version 	= "0.1.0">
 
-	<name>PhoneGap: Gene's First</name>
+	<name>JebProtoPhoneGap: Gene's First</name>
 
 	<description>
 		A template for jebProto PhoneGap development and build.phonegap.com
@@ -12,7 +12,7 @@
 
 	<author href="http://geneball.github.com"
 		email="geneball@gmail.com">
-		Andrew Lunny
+		Gene Ball
 	</author>
 
 	<icon src="icon.png" gap:role="default" />

@@ -1,6 +1,5 @@
-PhoneGap-Start
+JebProtoPhoneGap
 ---
 
-A starting point for PhoneGap apps.
+Based on alunny/PhoneGap-Start
 
-To get started: fork this repo, modify the config.xml to match your details, and get building!
